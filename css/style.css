@@ -1,0 +1,21 @@
+section {
+    background-color: linen;
+    width: 700px;
+}
+
+section h1 {
+    background-color: lightblue;
+    font-size: 30px;
+}
+
+article {
+    background-image: url("https: //images.unsplash.com/photo-1579288626050-a94bd5178925?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1077&q=80");
+}
+
+article h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
